@@ -1,0 +1,14 @@
+1 - vagrant es una herramienta de código abierto que nos permite crear, configurar entornos virtuales para desarrollo mediante líneas de comandos.
+    Inicialmente fue creado para trabajar únicamente con virtualbox pero apartir de la version 1.1 se agregó soporte para diferentes capas o provedores como vmware, amazon ec2 (Amazon’s Elastic Compute Cloud), lxc, DigitalOcean.
+2 - Actualmente las necesidades de un programador para realizar un proyecto que incluya todo lo necesario para una aplicación web, suele ser difícil mantener dichas configuraciones. 
+   Se puede llegar a requerir:
+    - Instalar base datos
+    - Servidor web.
+    - Broker de mensajería.
+    - etc.
+   Y todo esto involucra una serie de instalación y configuración, que suele ser siempre la parte más difícil de recordar como se configuró.
+
+
+¿Por qué Vagrant?
+
+Instalación de Vagrant
